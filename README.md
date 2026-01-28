@@ -18,5 +18,7 @@ then i started researching about arch , garch etc and found that this is quite u
 
 the AIC and BIC are used to compute the order of the garch model required.
 i have scaled the returns and then trained my model on training dataset and then used rolling forecast validation.
+then there are some testing metrics like QLIKE, MAE, MSE etc.
+in the end we have graphs for predicted volatility and confidence bands and lastly the actual prices for the predicted days.
 
 
